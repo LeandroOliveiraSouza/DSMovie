@@ -3,7 +3,10 @@
 :root {
   --color-bg-primary: #4d41c0;
   --color-bg-secondary: #e8e8e8;
+  --color-bg-tertiary: #fff;
   --color-text-primary: #fff;
+  --color-text-secondary: #4a4a4a;
+  --color-text-tertiary: #aaa;
 }
 
 * {
