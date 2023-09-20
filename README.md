@@ -8,13 +8,10 @@ DSCommerce é uma aplicação full stack web e mobile, construída durante o cur
 
 Inicialmente a aplicação apresenta uma página contendo pesquisa e catalogo de produtos. Uma vez escolhido o produto de interesse, com um click sobre ele, é aberta uma página de detalhes do produto, onde é dada opção para escolha de novos produtos ou comprar. Por questões de segurança é exigido que a partir dessa etapa o usuário se identifique por login. Feito o login, admitido para usuários administradores e clientes, é possível fechar o pedido. Caso o usuário seja administrador, ele pode ter acesso a uma área administrativa, com identidade distinta daquela usada para o cliente. Nessa área, esse usuário pode editar ou incluir novos produtos, que nesse caso alimentam o banco de dados por meio de requisições.
 
-## Layout mobile (dois exemplos)
-![Mobile Cart](https://github.com/LeandroSouzaOliveira/assets/blob/main/dscommerce/Cart.png) ![Mobile Confirmation](https://github.com/LeandroSouzaOliveira/assets/blob/main/dscommerce/Confirmation.png)
-
-## Layout web (dois exemplos)
+## Layout web
 ![Web product Listing](https://github.com/LeandroSouzaOliveira/assets/blob/main/dscommerce/Product%20Listing.png)
 
-![Web Product Form](https://github.com/LeandroSouzaOliveira/assets/blob/main/dscommerce/Product%20Form.png)
+![Web Product Form](https://github.com/LeandroOliveiraSouza/assets/blob/main/dsmovie-form.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/LeandroSouzaOliveira/assets/blob/main/dscommerce/Conceptual%20Model.png)
