@@ -1,5 +1,5 @@
 # DSMovie
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LeandroSouzaOliveira/dscommerce-frontend-react/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LeandroOliveiraSouza/DSMovie/blob/main/LICENSE) 
 
 # Sobre o projeto
 https://dscommerce-los.netlify.app
