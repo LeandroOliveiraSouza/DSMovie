@@ -9,7 +9,7 @@ DSMovie é uma aplicação full stack web, com leiaute responsivo, usando os bre
 Seu objetivo é permitir avaliar filmes que estão disponíveis em uma listagem. Selecionando uma das opções, o usuário é direcionado para um formulário que viabiliza informações para que a avaliação seja realizada. Essa avaliação é incluída no banco de dados, que retroalimenta os componentes de avaliações do front end.
 
 ## Layout web
-![Web product Listing](https://github.com/LeandroOliveiraSouza/assets/blob/main/dsmovie-listing.png) ![Web Product Form](https://github.com/LeandroOliveiraSouza/assets/blob/main/dsmovie-form.png)
+![Web product Listing](https://github.com/LeandroOliveiraSouza/assets/blob/main/dsmovie-listing.png)![Web Product Form](https://github.com/LeandroOliveiraSouza/assets/blob/main/dsmovie-form.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/LeandroOliveiraSouza/assets/blob/main/modelo-dominio.png)
@@ -29,9 +29,17 @@ Seu objetivo é permitir avaliar filmes que estão disponíveis em uma listagem.
 - Implantação na nuvem
 
 ## Front end:
-- Detalhes de card;
-- Formulário
-- Navageção entre páginas
+- Detalhamento e construção de cards;
+- Formulários
+- Três pilares do React
+  - Componentes
+  - Props
+  - Estado
+- React Hooks
+  - useState
+  - useEffect
+  - useParams
+  - useNavigate
 - Implantação na nuvem
 
 # Tecnologias utilizadas
@@ -51,8 +59,8 @@ Seu objetivo é permitir avaliar filmes que estão disponíveis em uma listagem.
 
 ## Implantação em produção
 - Back end: localhost
-- Front end web: Netlify
-- Banco de dados: H2 e Postgres
+- Front end: localhost
+- Banco de dados: H2 e Postgres (Docker Compose)
 
 # Como executar o projeto
 
