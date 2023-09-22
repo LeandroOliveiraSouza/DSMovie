@@ -59,8 +59,8 @@ Seu objetivo é permitir avaliar filmes que estão disponíveis em uma listagem.
 
 ## Implantação em produção
 - Back end: localhost
-- Front end web: Netlify
-- Banco de dados: H2 e Postgres
+- Front end: localhost
+- Banco de dados: H2 e Postgres (Docker Compose)
 
 # Como executar o projeto
 
