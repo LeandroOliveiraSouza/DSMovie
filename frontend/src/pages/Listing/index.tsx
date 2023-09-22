@@ -29,9 +29,13 @@ export default function Listing() {
       });
   }, [pageNumber]);
 
+  const handleNextPage = (newPageNumber: number) => {
+    setPageNumber(newPageNumber);
+  }
+
   return (
     <>
-      <Pagination />
+      <Pagination page={page}  onChange={handleNextPage} />
       <div className="container">
         <div className="row">
           {page.content.map((movie) => (
